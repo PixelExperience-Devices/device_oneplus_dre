@@ -6,7 +6,7 @@
     "remote": "pixel"
   },
   {
-    "repository": "kernel_oneplus_smd4350",
+    "repository": "kernel_oneplus_sdm4350",
     "target_path": "kernel/oneplus/sm4350",
     "branch": "thirteen"
   },
